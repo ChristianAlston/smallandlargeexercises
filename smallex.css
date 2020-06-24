@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    background-color: blue;
+    color: white;
+}
+
+.randomclass {
+    background-color: red;
+    color: pink;
+}
